@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ABCNewsLive.us",ABC News Live (720p)
+https://content-dtci.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?rays=hjigfedcba&expand=drmOff&v=3&prbd.server=drax
 #EXTINF:-1 tvg-id="ABCNewsLive1.us",ABC News Live 1 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive2.us",ABC News Live 2 (720p)
