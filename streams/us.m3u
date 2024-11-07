@@ -685,6 +685,8 @@ https://linear-44.frequency.stream/mt/brightcove/44/hls/master/playlist.m3u8
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
 #EXTINF:-1 tvg-id="RoyalTimeTelevision.us",Royal Time Television (1080p)
 https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/index.m3u8
+#EXTINF:-1 tvg-id="RT.ru",Russia Today
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="SadaEHaqTV.us",Sada-E-Haq TV (720p)
 https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8
 #EXTINF:-1 tvg-id="SafeTV.us",SafeTV (1080p)
